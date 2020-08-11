@@ -2,16 +2,13 @@
 
 Used VBA to analyse real stock market data
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
-Microsoft Excel installed
+Microsoft Excel
 
 ### Installing
 
+Download the "Homework Code Final" document, and run this code in VBA in the "Multiple Year Stock Data" spreadsheet
 
 ## License
 
