@@ -12,5 +12,5 @@ Download the "Homework Code Final" document, and run this code in VBA in the "Mu
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License 
 
