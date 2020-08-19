@@ -10,7 +10,7 @@ Microsoft Excel
 
 Download the "Homework Code Final" document, and run this code in VBA in the "Multiple Year Stock Data" spreadsheet
 
-## License
+### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
